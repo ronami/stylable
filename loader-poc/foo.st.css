@@ -1,0 +1,9 @@
+.hello {
+  color: red;
+  background: url('./dog.png');
+  height: 500px;
+}
+
+.world {
+  color: blue;
+}
